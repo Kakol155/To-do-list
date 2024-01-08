@@ -8,3 +8,5 @@
 ## Click bellow to test
 [![Logo strony](img/photo.PNG)](https://kakol155.github.io/To-do-list/)
 
+# Works on
+Has been tested on Firefox and Chrome
